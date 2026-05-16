@@ -77,7 +77,7 @@ export const projects: Project[] = [
     title: "Velocity",
     category: "Commercial",
     thumbnail: "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=600&q=80",
-    videoUrl: "https://drive.google.com/file/d/1CBZJu0Q7eh6-bck-phXDMTxiTll4R_aA/preview",
+    videoUrl: "https://res.cloudinary.com/dqz9khsck/video/upload/q_auto/f_auto/v1778952663/lv_0_20260516223821_fk5qu5.mp4",
     description: "High-energy commercial for premium automotive brand.",
   },
   {
