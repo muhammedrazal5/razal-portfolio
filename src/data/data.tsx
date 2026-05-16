@@ -85,7 +85,7 @@ export const projects: Project[] = [
     title: "Golden Fade",
     category: "Reels",
     thumbnail: "https://images.unsplash.com/photo-1518676590747-1e3dcf5c8e27?w=600&q=80",
-    videoUrl: "https://cdn.coverr.co/videos/coverr-a-city-at-night-4444/1080p.mp4",
+    videoUrl: "https://res.cloudinary.com/dqz9khsck/video/upload/q_auto/f_auto/v1778952663/lv_0_20260516223821_fk5qu5.mp4",
     description: "Viral social media reel with cinematic transitions.",
   },
   {
